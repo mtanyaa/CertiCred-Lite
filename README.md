@@ -7,7 +7,7 @@ Document and certificate issuance through IPFS (InterPlanetary File System) offe
 # How to run : 
 
 # step 1 : 
-clone the project by running : git clone https://github.com/mtanyaa/CertiCred-Lite.git
+clone the project by running : git clone https://github.com/mtanyaa/CredNova.git
  # Step 2 :
   install dependencies by runnin "npm install" in both certify and root folders . 
   
